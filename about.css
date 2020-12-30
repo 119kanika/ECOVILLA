@@ -19,7 +19,7 @@ body{
     min-height: 100vh;
 }
 
-/* Section one- ABout us */
+* Section one- ABout us *
 section{
     display: grid;
     grid-template-columns: 1fr 1fr;
@@ -28,12 +28,12 @@ section{
     margin: 30px auto;
 }
 #img1{
-    background: url("/assets/images/eco.jpj.jpg") center/cover no-repeat;
+    background: url("eco.jpj.jpg") centercover no-repeat;
     -webkit-box-shadow: 2px 2px 4px 4px black;
 }
 .content{
     background: rgb(90, 166, 196);
-    /* box-shadow: 5px 5px #000; */
+    * box-shadow: 5px 5px #000; *
     -webkit-box-shadow: 2px 2px 4px 4px black;
     display: flex;
     justify-content: center;
@@ -41,7 +41,7 @@ section{
     align-items: center;
 }
 .content span{
-    /* background: turquoise; */
+    * background: turquoise; *
     height: 80px;
     padding-top: 20px;
     text-align: center;
@@ -78,8 +78,8 @@ section{
     position: relative;
     min-width: 8.23em;
     text-decoration: none;
-    /* font-family: var(--font); */
-    /* font-size: 1.25rem; */
+    * font-family: var(--font); *
+    * font-size: 1.25rem; *
 }
 
 
@@ -95,7 +95,7 @@ section{
     color: rgb(179, 83, 6)
 }   
 
-/* Our concern */
+* Our concern *
 .content-c{
     -webkit-box-shadow: 2px 2px 4px 4px black;
     background: rgb(90, 166, 196);
@@ -111,7 +111,7 @@ section{
 .content-c h1{
     font-size: 60px;
     font-weight: 500;
-    /* height: 200px; */
+    * height: 200px; *
     color: #000;
     text-align: center;
 }
@@ -124,7 +124,7 @@ section{
     line-height: 1.7;
 }
 
-/* services */
+* services *
 .content-s{
     -webkit-box-shadow: 2px 2px 4px 4px black;
     background: rgb(90, 166, 196);
@@ -132,7 +132,7 @@ section{
     justify-content: center;
     flex-direction: column;
     align-items: center;
-    /* transform: translate(-50%, -50%); */
+    * transform: translate(-50%, -50%); *
 }
 .content-s h1{
     text-transform: uppercase;
@@ -145,7 +145,7 @@ section{
     height: 70px;
     padding-top: 10px;
     text-align: center;
-    /* width: 90%; */
+    * width: 90%; *
 }
 .content-s p{
     padding: 50px;
@@ -154,11 +154,11 @@ section{
     line-height: 1.7;
 }
 #img3{
-    background: url("/assets/images/poll2.jpg") center/cover no-repeat;  
+    background: url("poll2.jpg") centercover no-repeat;  
     -webkit-box-shadow: 2px 2px 4px 4px black;
 }
 
-/* Pictures grid */
+* Pictures grid *
 .row{
     margin: 70px;
     display: flex;
@@ -173,7 +173,7 @@ section{
     display: block;
 }   
 
-/* Loop-holes */
+* Loop-holes *
 .content-l{
     -webkit-box-shadow: 2px 2px 4px 4px black;
     background:rgb(90, 166, 196);
@@ -196,7 +196,7 @@ section{
 .content-p {
     position: relative;
     width: 50%;
-    /* color: white; */
+    * color: white; *
   }
 
   #center {
@@ -242,8 +242,8 @@ section{
     text-align: center;
   }
   .overlay:hover + .hide{
-      /* width: 190%;
-      height: 100%; */
+      * width: 190%;
+      height: 100%; *
       display: block;
   }
   
@@ -251,7 +251,7 @@ section{
     opacity: 0.9;
   }
 
-  /* Team */
+  * Team *
 
   #content-team{
     background: rgb(195, 240, 236);
@@ -260,7 +260,7 @@ section{
     display: flex;
     flex-direction: column;
     padding: 30px;
-    /* width: 50px; */
+    * width: 50px; *
     height: 90px;
     align-items: center;
 }
@@ -268,7 +268,7 @@ section{
 #content-t {
     display: flex;
     flex-wrap: wrap;
-    /* height: 10px; */
+    * height: 10px; *
     justify-content: center;
     align-content: center;
 }
@@ -321,7 +321,7 @@ section{
 .team .info {
     background-color: white;
     position: absolute;
-    /* top: 0px; */
+    * top: 0px; *
     bottom: 0;
     left: 0;
     right: 0;
@@ -359,7 +359,7 @@ section{
     display: inline-block;
     width: 48px;
     padding: 0px;
-    /* background-color: #8f1a1a; */
+    * background-color: #8f1a1a; *
     border-radius: 16px;
     margin: 4px;
     cursor: pointer;
@@ -367,7 +367,7 @@ section{
 
 .team .social i:hover {
     color: rgb(9, 5, 65);
-    /* background-color: #363636; */
+    * background-color: #363636; *
 
 }
 
@@ -381,9 +381,9 @@ section{
   color: rgb(5, 5, 5);
 }
 
-/* footer */
+* footer *
 
-@import url('https://fonts.googleapis.com/css2?family=Josefin+Sans:wght@300;400&display=swap');
+@import url('https:fonts.googleapis.comcss2?family=Josefin+Sans:wght@300;400&display=swap');
 
 *,*:before,*:after{
 	box-sizing: border-box;
