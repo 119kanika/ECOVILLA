@@ -1,5 +1,5 @@
 @charset "UTF-8";
-
+/*PEN STYLES*/
 
 @import url("https://fonts.googleapis.com/css?family=Kanit:900");
 
@@ -7,12 +7,12 @@
 h3 {
   color: #FFF;
   font-family: "Kanit";
-  font-size: 45px;
+  font-size: 50px;
   margin: 0;
   position: absolute;
   text-align: center;
   top: 26%;
-  left: 2%;
+  left: 1%;
   transform: translateY(-50%);
   width: 100%;
   text-shadow: 0 1px 0 #67c59b, 0 2px 0 #accfbf, 0 3px 0 #8ab3a0, 0 4px 0 #8ed3b4, 0 5px 0 #72a38d, 0 6px 0 #5eb38d, 0 7px 0 #29c47e, 0 8px 0 #035e33, 0 0 5px rgba(3, 56, 31, 0.05), 0 -1px 3px rgba(139, 230, 184, 0.2), 0 9px 9px rgba(139, 230, 188, 0.3), 0 12px 12px rgba(139, 230, 184, 0.3), 0 15px 15px rgba(139, 230, 188, 0.3);
@@ -20,11 +20,10 @@ h3 {
 body {
   background-color: rgb(255, 255, 255);
   margin: 0;
-  /* text-align: center; */
+  /*text-align: center;*/
 }
 .cards{
-  margin-left: 5rem;
-  text-align: center;
+  margin-left: 13rem;
 }
 h3 {
   /* margin: 20px; */
@@ -44,7 +43,6 @@ h3 span {
 }
 .blog-card {
   display: flex;
-  text-align: center;
   flex-direction: column;
   margin: 30px;
   box-shadow: 1px 2px 10px 10px rgba(0, 38, 87, 0.322);
