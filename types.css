@@ -7,7 +7,7 @@
 h3 {
   color: #FFF;
   font-family: "Kanit";
-  font-size: 50px;
+  font-size: 45px;
   margin: 0;
   position: absolute;
   text-align: center;
@@ -23,7 +23,7 @@ body {
   /*text-align: center;*/
 }
 .cards{
-  margin-left: 13rem;
+  margin-left: 14rem;
 }
 h3 {
   /* margin: 20px; */
@@ -43,9 +43,9 @@ h3 span {
 }
 .blog-card {
   display: flex;
-  align-items: center;
   flex-direction: column;
   margin: 30px;
+  margin-left: -80px;
   box-shadow: 1px 2px 10px 10px rgba(0, 38, 87, 0.322);
   margin-bottom: 1.6%;
   background: rgba(58, 153, 190, 0.925);
