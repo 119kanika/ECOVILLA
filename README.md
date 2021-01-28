@@ -1,6 +1,12 @@
-# ECOVILLA
+# :label: ECOVILLA
 ### ECOVILLA means turning our ecosystem/surrounding into a villa where every human kind can rejoice in. To run this cause, we have mainly focused on River Protection & Paper Recycling.
-## The problem ECOVILLA solves
+
+## :label: TEAM MEMBERS
+   - [Kanika Mahindroo](https://github.com/119kanika)
+   - [Rompy Roshni](https://github.com/rompyroshni31)
+   - [Aarchie Girdhar](https://github.com/Aarchie-05)
+   - [Abhinav Verma](https://github.com/abhinav2612)
+## :label: The problem ECOVILLA solves
 We strongly believe in protecting our holy Rivers and preserve their Pureness. So our mission is to save and nurture them and stretch this cause among more and more youth.
 
 Secondly, we have observed a lot of paper wastage within various organisations. So, we have started this initiative of collecting and recycling the waste paper and use it for something good. And we also have an ecommerce page where all the products are made from the recycled paper collected from various organisations.
@@ -13,5 +19,15 @@ On our website, we’ll show you the live water pollution levels of all those pa
 
 Basically, our website will help you to check the instant pollution levels inside the water bodies from our devices.
 
-## TECHNOLOGIES USED
-https://img.shields.io/badge/HTML-%20-brightgreen
+## :label: TECHNOLOGIES USED
+```
+- HTML
+- CSS
+- Firebase
+- jQuery
+- js
+```
+
+# :label: LINKS
+ [Github](https://github.com/119kanika/ECOVILLA)
+ [Website](https://ecovilla.000webhostapp.com/)
